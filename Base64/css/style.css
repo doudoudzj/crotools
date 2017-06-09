@@ -1,0 +1,32 @@
+body,
+td,
+th,
+textarea,
+input {
+    margin: 0;
+    font-size: 12px;
+    outline: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#src,
+#dest {
+    width: 600px;
+    height: 120px;
+}
+
+.mtable {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
